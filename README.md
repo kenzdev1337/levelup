@@ -34,7 +34,7 @@ $ pip3 install -r requirements.txt
 $ python3 main.py
 ```
 
-## I have a PROBLEM!
+## I have a BIG issue!
 
 If you encounter an issue, please open an [issue](https://github.com/KenzLeVrai/levelup/issues)
 
